@@ -1,2 +1,2 @@
-## Hi, there!
+## Hi there !
 ![plot](./cirno.jpg)
